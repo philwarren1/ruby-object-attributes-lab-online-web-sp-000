@@ -12,6 +12,6 @@ def name=(dog_name)
   end
  
   def breed
-    @name
+    @breed
   end
 end
